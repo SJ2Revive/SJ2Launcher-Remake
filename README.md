@@ -1,8 +1,8 @@
 # SJ2Launcher-Remake
-Remake Orginalnego Launcher Symulatora Jazdy 2
-![image](https://github.com/SJ2Revive/SJ2Launcher-Remake/assets/65111609/2c67e59a-c0dc-4504-be6d-667bba0624b0)
-
+Remake Orginalnego Launcher Symulatora Jazdy 2<br/>
 Praktycznie 1:1 remake orginalnego launchera
+
+![image](https://github.com/SJ2Revive/SJ2Launcher-Remake/assets/65111609/d8fba641-106c-482d-a82d-f0778d7224c6)
 
 
 Creditsy
