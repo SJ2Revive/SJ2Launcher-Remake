@@ -6,5 +6,5 @@ Praktycznie 1:1 remake orginalnego launchera
 
 
 Creditsy
-Zordon1337 - zrobienie remake'u
+Zordon1337 - zrobienie remake'u<br/>
 Freemind SA - Symulator Jazdy 2 i Orginalny Launcher
