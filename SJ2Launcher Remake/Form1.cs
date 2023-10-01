@@ -19,5 +19,10 @@ namespace SJ2Launcher_Remake
         {
             button3.Enabled = false;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
